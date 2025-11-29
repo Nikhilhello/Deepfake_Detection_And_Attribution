@@ -3,7 +3,7 @@
 
   <P align="center">Capstone Project (4-1) 2025-2026 </P>
 <p align="center">
-  <a href="[https://2303a51la7.github.io/](https://nikhilhello.github.io/DFDA/)">
+  <a href="https://nikhilhello.github.io/DFDA/">
     <img src="https://img.shields.io/badge/Project%20Presentation%20Hub-Open-blue?style=for-the-badge" alt="Project Presentation Hub">
   </a>
 </p>
