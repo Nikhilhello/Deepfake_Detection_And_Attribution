@@ -1,10 +1,10 @@
 # 🌐 DeepFake Detection and Attribution (DFDA)
 
 <p align="center">
-  🔗 <a href="https://2303a51la7.github.io/">Live Demo</a>
+  <a href="https://2303a51la7.github.io/">
+    <img src="https://img.shields.io/badge/Project%20Presentation%20Hub-Open-blue?style=for-the-badge" alt="Project Presentation Hub">
+  </a>
 </p>
-
-[![Project Presentation Hub](https://img.shields.io/badge/Project%20Docs-Open-blue?style=for-the-badge)](https://2303a51la7.github.io/)
 
 > **A Unified AI System for Multi-Modal DeepFake Detection and Source Attribution**
 >
